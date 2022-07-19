@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <limk rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="background ver1">
+      <p class="discription">Пес</p>
+      
+      
+    </div>
+    <div class="background ver2">
+      <p class="aboutGame">Пес<br>млекопитающее семейства псовых, научно доказавшее свое превосходство над кошками <br>в плане задач человека (помогли британские ученые). <br>По сути представляет собой самоходную прищепку на основе волка.</p>
+      
+      
+    </div>
+    <div class="background ver3">
+      <div class="photo">
+        <img id="photoAuthor" src="https://cs12.pikabu.ru/post_img/2020/03/30/9/158557860518161846.jpg">
+      </div>
+      <div class="author">
+        <p class="aboutAuthor">Иисус Христос<br>(это господь господь и Иисус Христос)</p>
+        
+      </div>
+    </div>
+  </body>
+</html>
